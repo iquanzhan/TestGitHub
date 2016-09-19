@@ -1,2 +1,0 @@
-this a third document 
-介绍通过使用GitHub客户端做版本
